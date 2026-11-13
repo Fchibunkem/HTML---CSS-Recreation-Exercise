@@ -1,0 +1,271 @@
+.Subscribe-button {
+  background-color: rgba(200, 0, 0, 0.968);
+  color: white;
+  border: none;
+  height: 36px;
+  width: 105px;
+  border-radius: 2px;
+  cursor: pointer;
+  margin-right: 8px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
+  transition: opacity 0.15s;
+}
+
+.Subscribe-button:hover {
+  opacity: 0.8;
+}
+
+.Subscribe-button:active {
+  opacity: 0.5;
+}
+.join-button {
+  background-color: white;
+  border-color: rgb(41, 118, 211);
+  border-style: solid;
+  color: rgb(41, 118, 211);
+  border-width: 1px;
+  border-radius: 2px;
+  cursor: pointer;
+  padding-bottom: 9px;
+  padding-top: 9px;
+  padding-left: 16px;
+  padding-right: 16px;
+  transition:
+    background-color 0.15s,
+    color 0.15s;
+}
+
+.join-button:hover {
+  background-color: rgb(41, 118, 211);
+  color: white;
+}
+
+.join-button:active {
+  opacity: 0.7;
+}
+
+.Tweet-button {
+  background-color: rgb(2, 158, 255);
+  color: white;
+  border: none;
+  border-radius: 18px;
+  height: 36px;
+  width: 75px;
+  margin-left: 8px;
+  font-weight: bold;
+  font-size: 15px;
+  cursor: pointer;
+  transition: box-shadow 0.15s;
+}
+
+.Tweet-button:hover {
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+}
+
+.Request-button {
+  background-color: black;
+  color: white;
+  border: none;
+  height: 30px;
+  width: 95px;
+  cursor: pointer;
+  font-size: x-small;
+  margin-right: 8px;
+  transition: opacity 0.15s;
+}
+
+.Request-button:hover {
+  opacity: 0.8;
+}
+
+.Addtocart-button {
+  background-color: rgb(255, 216, 20);
+  border-radius: 18px;
+  font-size: smaller;
+  font-weight: bold;
+  height: 30px;
+  width: 150px;
+  cursor: pointer;
+  border: none;
+  transition: background-color 0.15s;
+}
+
+.Addtocart-button:hover {
+  background-color: rgb(255, 200, 22);
+}
+
+.Addtocart-button:active {
+  opacity: 0.8;
+}
+
+.Signup-button {
+  background-color: rgb(46, 164, 79);
+  color: white;
+  height: 30px;
+  width: 80px;
+  font-weight: bold;
+  border-radius: 5px;
+  margin-left: 8px;
+  border: none;
+  cursor: pointer;
+  transition: box-shadow o.15s;
+}
+
+.Signup-button:hover {
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+}
+.Getstarted-button {
+  background-color: rgb(121, 82, 179);
+  color: white;
+  border: none;
+  height: 33px;
+  width: 100px;
+  border-radius: 3px;
+  font-size: small;
+  cursor: pointer;
+  margin-right: 8px;
+  transition: background-color 0.15s;
+}
+
+.Getstarted-button:hover {
+  background-color: rgb(121, 60, 190);
+}
+.Download-button {
+  background-color: white;
+  color: rgb(108, 117, 125);
+  border-color: rgb(108, 117, 125);
+  border-style: solid;
+  border-width: 1px;
+  height: 33px;
+  width: 100px;
+  border-radius: 3px;
+  font-size: small;
+  cursor: pointer;
+  transition:
+    background-color 0.15,
+    color 0.15;
+}
+
+.Download-button:hover {
+  background-color: rgb(108, 117, 125);
+  color: white;
+}
+
+.Apply-button {
+  background-color: rgb(10, 102, 194);
+  color: white;
+  border: none;
+  border-radius: 18px;
+  height: 30px;
+  width: 200px;
+  cursor: pointer;
+  font-size: small;
+  font-weight: bold;
+  transition: background-color 0.15s;
+}
+
+.Apply-button:hover {
+  background-color: rgb(26, 66, 147);
+}
+
+.Save-button {
+  background-color: white;
+  color: rgb(10, 102, 194);
+  height: 30px;
+  width: 70px;
+  border-color: rgb(10, 102, 194);
+  border-width: 1.5px;
+  border-style: solid;
+  border-radius: 18px;
+  font-weight: bold;
+  cursor: pointer;
+  transition:
+    background-color 0.15s,
+    color 0.15s;
+}
+
+.Save-button:hover {
+  background-color: rgb(10, 102, 194);
+  color: white;
+}
+
+.h4-color {
+  color: rgb(0, 118, 0);
+}
+
+.Buynow-button {
+  background-color: rgb(255, 164, 28);
+  border: none;
+  height: 30px;
+  width: 150px;
+  border-radius: 18px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.15s;
+}
+
+.Buynow-button:hover {
+  background-color: rgb(255, 130, 30);
+}
+
+.Buynow-button:active {
+  opacity: 0.8;
+}
+
+.video-title {
+  font-family: Arial;
+  font-size: 18px;
+  font-weight: bold;
+  width: 280px;
+  line-height: 24px;
+  margin-top: 100px;
+  margin-bottom: 0;
+}
+
+.video-stats {
+  font-family: Arial;
+  font-size: 14px;
+  color: rgb (96, 96, 96);
+  margin-top: 5px;
+  margin-bottom: 0;
+}
+
+.video-author {
+  font-family: Arial;
+  font-size: 14px;
+  color: rgb (96, 96, 96);
+  margin-top: 20px;
+  margin-bottom: 2opx;
+}
+
+.video-description {
+  font-family: Arial;
+  font-size: 14px;
+  color: rgb (96, 96, 96);
+  width: 280px;
+  margin-top: 0;
+  line-height: 22px;
+}
+
+.apple-shop {
+  background-color: rgb(227, 65, 64);
+  color: white;
+  font-family: Arial;
+  font-size: 14px;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.underline {
+  cursor: pointer;
+}
+
+.underline:hover {
+  text-decoration: underline;
+}
